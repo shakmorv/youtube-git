@@ -2,4 +2,4 @@
 
 Dale que estamos por el camino correcto.
 
-Agregando más contenido al README.
+Agregando más contenido al _README.md_.
