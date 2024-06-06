@@ -1,24 +1,167 @@
-* 9d720c7 Agregando 2 párrafos
-*   2772724 Resolviendo conflicto en estaciones del año y fechas de inicio
-|\  
-| * 21ba5b2 Agregando las estaciones del año
-* | f02e592 Agregando estaciones del año con fecha de inicio
-|/  
-*   d7353e5 Resolviendo conflicto merge main/html en el documento index.html
-|\  
-| * 777be6d Agregando index.js al index.html
-* | 7f8910c Agregando style.css al index.html
-* |   9211b16 Merge branch 'js'
-|\ \  
-| * | 3f22051 Creando index.js
-* | | b5a1d25 Creando style.css
-| |/  
-|/|   
-* | 7156d23 Creando index.html
-|/  
-* 48e314e Ignorando archivos .exe
-* 3780883 Creando licencia del repositorio
-* 9d3e569 Otras Modificaciones al README
-* d9da8ca Agregando más contenido al README
-* 6e54ba5 Agregando contenido inicial al README
-* 20d3464 Primer commit :)
+commit 4a79ebcc1a60069c51e7529b01d11978bb8c7d84
+Merge: 845d811 37dd5bc
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Wed Jun 5 22:10:46 2024 -0300
+
+    Merge pull request #1 from colabmorv/readme-colabmorv
+    
+    Readme colabmorv
+
+commit 37dd5bc3928512ce7bb15ee8e49b330db87f473d
+Author: colabmorv <dadi_srl@yahoo.com>
+Date:   Wed Jun 5 21:52:21 2024 -0300
+
+    Haciendo mejoras al README del repositorio
+
+commit dbb6d91bb06b03d65207ce820fdf246c47ec3415
+Author: colabmorv <dadi_srl@yahoo.com>
+Date:   Wed Jun 5 20:24:26 2024 -0300
+
+    Ultima prueba de configuración de Multiples Cuentas
+
+commit 845d8113c0fa6b6965d80d4468537a16504acde0
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Wed Jun 5 20:05:18 2024 -0300
+
+    Prueba multiples usuarios de GIT
+
+commit 85c2964c90393a380f2120f1dfca5cf2b6758ac6
+Author: colabmorv <dadi_srl@yahoo.com>
+Date:   Wed Jun 5 19:55:56 2024 -0300
+
+    algo
+
+commit 83e60f84922e9fa336f839f1e7fb6c02fd0159c3
+Author: colabmorv <dadi_srl@yahoo.com>
+Date:   Wed Jun 5 18:11:43 2024 -0300
+
+    Dale que va
+
+commit 2ed347ed154ce84ce694be6452843c66a65848d0
+Author: colabmorv <dadi_srl@yahoo.com.ar>
+Date:   Tue Jun 4 23:21:59 2024 -0300
+
+    Update README.md
+
+commit 5e310050d6f793be9d9b272d0b8e471201bd523c
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Mon Jun 3 21:59:10 2024 -0300
+
+    Agregando contenido y estilos al index.html
+
+commit c8cdbb02da03a41b76ea26826fe5a2f950ed1633
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Mon Jun 3 21:01:20 2024 -0300
+
+    v1.0.0
+
+commit 127a7fdec5f3c3b69add8ed1d8f28711ba7e62fe
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Mon Jun 3 19:25:28 2024 -0300
+
+    Respaldando logs del repositorio
+
+commit 9d720c7fbe7ce6f8f777857a1f73a7564a2dfb6c
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 21:00:43 2024 -0300
+
+    Agregando 2 párrafos
+
+commit 277272480880041c2c3dde731e6f42ad2a1c36a7
+Merge: f02e592 21ba5b2
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 20:58:21 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit f02e592dde66f8bf29843193911a1ae591d3dad3
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 20:39:37 2024 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 21ba5b2bf4d185a1c07b18aae5ac5e6530954b90
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 20:39:37 2024 -0300
+
+    Agregando las estaciones del año
+
+commit d7353e57ee9c892b163ea19556f8de6aef76706c
+Merge: 7f8910c 777be6d
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 20:29:27 2024 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 777be6d20f08189d454ac11b8eaef42bb0ff6b90
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 20:22:33 2024 -0300
+
+    Agregando index.js al index.html
+
+commit 7f8910cbb83b2ed57d1be9c50f3277f37b95f65a
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 20:12:49 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 9211b16ea6fb2aa11174e3f76e463a96b331c0df
+Merge: b5a1d25 3f22051
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 19:58:35 2024 -0300
+
+    Merge branch 'js'
+
+commit 3f2205106432b7dfac5b218643c97e23de320934
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 19:19:43 2024 -0300
+
+    Creando index.js
+
+commit b5a1d25e54b8cce0cd37d04a58225aff1d8bb38a
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 19:13:53 2024 -0300
+
+    Creando style.css
+
+commit 7156d23596f6087f55d5d52e4f09a02a35ec5358
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 19:08:41 2024 -0300
+
+    Creando index.html
+
+commit 48e314ebd8d2399faf6d77c431904732be34aa30
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sun Jun 2 18:45:47 2024 -0300
+
+    Ignorando archivos .exe
+
+commit 378088361c4443bb386b3eb68b362c2118921c6e
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sat Jun 1 19:08:55 2024 -0300
+
+    Creando licencia del repositorio
+
+commit 9d3e569492b998da1f8ec9bcd1f5b377e6318a06
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Sat Jun 1 19:02:29 2024 -0300
+
+    Otras Modificaciones al README
+
+commit d9da8caad8e78db737ea7d72e42de6d32d099966
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Fri May 31 23:02:19 2024 -0300
+
+    Agregando más contenido al README
+
+commit 6e54ba527dcd0cfcf77da254b2624919719ec640
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Fri May 31 22:19:14 2024 -0300
+
+    Agregando contenido inicial al README
+
+commit 20d3464e7b03515f9bbc1b100dd718d14e724d72
+Author: shakmorv <dadi_srl1@yahoo.com>
+Date:   Fri May 31 22:14:10 2024 -0300
+
+    Primer commit :)
